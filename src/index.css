@@ -1,0 +1,244 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.collegeName{
+  
+  background-color: rgba(113, 243, 213, 1);
+     width: 1535px;
+     height: 70px;
+     left: 0px;
+     right: 0px;
+     top: 0px;
+    text-align: center;
+}
+.bor{
+  background-color:rgba(18, 158, 135, 1) ;
+  position:absolute;
+  width: 1535px;
+  height: 50px;
+  left: 0px;
+  right: 0px;
+  top: 44px;
+ }
+
+ 
+ 
+ .home{
+  background-color:hsl(166, 55%, 59%);
+  border: none;
+  color: black;
+  font-size: 16px;
+  line-height: 5px;
+  top:50px;
+  left:50px;
+  position: absolute;
+  margin-bottom: 0px;
+  right: 0px;
+  bottom:0px;
+  padding: 10px 24px;
+  margin: 4px 2px;
+  border-radius: 50px;
+  height: 35.32px;
+  width: 90px;
+  cursor: pointer;
+ }
+
+ .Quiz{
+  background-color:hsl(166, 55%, 59%);
+  border: none;
+  color: black;
+  font-size: 16px;
+  line-height: 5px;
+  top:50px;
+  left:200px;
+  position: absolute;
+  margin-bottom: 0px;
+  right: 0px;
+  bottom:0px;
+  padding: 10px 24px;
+  margin: 4px 2px;
+  border-radius: 50px;
+  height: 35.32px;
+  width: 90px;
+  cursor: pointer;
+ }
+ .para{
+  position:absolute;
+width: 632.59px;
+height: 460.12px;
+left: 697px;
+top: 170px;
+
+background: #129E87;
+border-radius: 300px;
+ }
+ .quiz{
+  position:absolute;
+  height: 550px;
+  width: 500px;
+  right: 0px;
+  left: 2%;
+  
+  top:15%;
+ }
+.wording{
+  position: absolute;
+width: 456.09px;
+height: 307.7px;
+left: 811.46px;
+top: 220.26px;
+
+font-family: 'Kameron';
+font-style: bold;
+font-weight: 400;
+font-size: 28px;
+line-height: 57px;
+
+color: #000000;
+}
+.rect{
+  
+position: absolute;
+width: 150.86px;
+height: 588.73px;
+left: 100.01px;
+top: 75.26px;
+
+background: #5CCFB4;
+}
+
+.tech{
+  position: absolute;
+width: 153.46px;
+height: 18.27px;
+left: 0.65px;
+top: 271.13px;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+}
+.oral{
+font-style: normal;
+font-family: 'Kameron';
+width: 138px;
+font-size: 16px;
+position:absolute;
+height: 50.27px;
+left: 0.62px;
+top: 380.74px;
+background: #129E87;
+padding: 10px 24px;
+  margin: 4px 2px;
+  border-radius: 12px;
+}
+.tech{
+  font-style: normal;
+width: 138px;
+position:absolute;
+line-height: 20px;
+height:50px;
+left: 1.62px;
+top: 289.74px;
+background: #129E87;
+padding: 10px 24px;
+  margin: 4px 2px;
+  border-radius: 12px;
+
+}
+.sent{
+
+}
+
+.orl{
+  font-style: normal;
+  width: 138px;
+  position: relative;
+  height:50px;
+  left: 10.62px;
+  top: 800.74px;
+  
+}
+.Quizz{
+  
+  position:absolute;
+  height: 450px;
+  width: 715px;
+  right: 0px;
+  left: 1%;
+  
+  top:145%;
+ }
+
+.techhead{
+  font-family: cursive;
+  position: absolute;
+width: 600.09px;
+height: 30.7px;
+left: 66.46px;
+top: 750.26px;
+font-weight: 1000;
+font-size: 80px;
+line-height: 37px;
+}
+
+.sent{
+  font-family: 'Kameron';
+  position: relative;
+width: 555.09px;
+height: 30.7px;
+left: 798.46px;
+top: 960.26px;
+font-weight: 100;
+font-size: 28px;
+line-height: 37px;
+
+
+color: #000000;
+}
+.pic{
+
+}
+.pic{
+  position:absolute;
+  height: 550px;
+  width: 715px;
+  right: 0px;
+  left: 48%;
+  top:245%;
+}
+.orall{
+  font-family: 'Kameron';
+  position: relative;
+width: 555.09px;
+height: 30.7px;
+left: 79.46px;
+top: 1560.26px;
+font-weight: 100;
+font-size: 28px;
+line-height: 37px;
+}
+.but{
+  background-color:hsl(166, 55%, 59%);
+  border: none;
+  color: black;
+  font-size: 16px;
+  position: absolute;
+  margin-bottom: 50px;
+  right: 100px;
+  bottom:500px;
+  padding: 10px 24px;
+  margin: 4px 2px;
+  border-radius: 12px;
+  height: 35.32px;
+  width: 100px;
+ }
